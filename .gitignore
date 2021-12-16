@@ -3,7 +3,7 @@
 
 *.pyc
 
-*Untitled
+*Untitled.ipynb*
 *.csv
 
 */.ipynb_checkpoints/
@@ -17,3 +17,4 @@
 
 *notatki.txt*
 
+Untitled.ipynb
